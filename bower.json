@@ -1,0 +1,6 @@
+{
+  "name": "tplogbook",
+  "devDependencies": {
+    "bootstrap": "~3.0.3"
+  }
+}
